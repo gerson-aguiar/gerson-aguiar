@@ -36,7 +36,6 @@
 ### 🔹 **Backend & Architecture**
 - **Microservices**, **Event-Driven Architecture**, **API Design**
 - **Spring Boot**, **Micronaut**, **Django REST Framework**
-- **Node.js** (Fastify, Express)
 - **Messaging Systems:** Kafka, RabbitMQ
 - **Databases:** PostgreSQL, MySQL, Elasticsearch, Redis
 - **DevOps & Cloud:** AWS (Lambda, S3, EventBridge, DynamoDB, API Gateway), Docker, Kubernetes
