@@ -44,8 +44,8 @@
 
 ### 🔹 **Frontend & UI**
 - **ReactJS** (Hooks, Context API, TailwindCSS, MUI)
-- **State Management:** Context API, XState, Redux
 
+<!--
 ---
 
 ## 🔥 **Highlights**
@@ -62,7 +62,7 @@
 🔗 [**System Design Notes**](https://github.com/gerson-aguiar/system-design) - A repository with my **System Design** studies and notes  
 
 ---
-
+-->
 ## 📫 **Find me here:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gersonaguiar)  
 [![GitHub](https://img.shields.io/badge/GitHub--black?style=for-the-badge&logo=github)](https://github.com/gerson-aguiar)  
