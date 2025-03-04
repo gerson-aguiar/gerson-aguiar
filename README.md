@@ -1,13 +1,29 @@
 # 👋 Hey, I'm Gerson Aguiar!
 
 🎯 **Senior Software Engineer | Backend | Systems Architecture | A little bit FrontEnd**  
-📍 Currently working at **Loggi**  
-🚀 Passionate about **microservices, distributed systems, cloud computing, and performance optimization**  
+📍 Currently working at **Inventa**  
+🚀 Passionate about **monoliths, microservices, serverless architectures, distributed systems, cloud computing, and performance optimization**  
+
+
+<ul>
+  <li>I'm <a href = "https://github.com/gerson-aguiar">Gerson Aguiar</a>, a Software Engineer having 7+ years of experience working in various domains like backend, frontEnd, mobile, desktop, full stack, hardward arduino raspibarry.</li>
+  <li>Follow me on <a href="https://www.linkedin.com/in/gerson-aguiar/">LinkedIn</a>
+  <li>Checkout my  <a href="https://www.youtube.com/@gerson-aguiar.engineer">YouTube Channel</a> for more in-depth content.</li>
+</ul>
 
 ---
 
 ### Github Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gerson-aguiar&custom_title=Gerson-Aguiar%27s%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true%22%20alt=%22GitHub%20Activity%20Graph%22" />
+
+
+### Main skills  
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,py,js,react,postgres,mongodb,kafka,rabbitmq,django,docker,firebase,figma,git,github,gmail,grafana,idea,kubernetes,nodejs,npm,postman,pycharm,redis,replit,supabase,terraform,ubuntu,vscode,windows)](https://skillicons.dev)
+
+
+### Cloud skills
+[![Cloud Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+
 
 ---
 
