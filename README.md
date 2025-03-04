@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Gerson Aguiar!
 
-🎯 **Software Engineer | Backend & Frontend | Systems Architecture**  
+🎯 **Senior Software Engineer | Backend | Systems Architecture | A little bit FrontEnd**  
 📍 Currently working at **Loggi**  
 🚀 Passionate about **microservices, distributed systems, cloud computing, and performance optimization**  
 
@@ -9,13 +9,13 @@
 ## 🚀 **Experience & Technologies**
 ### 🔹 **Programming Languages**
 - **Java & Kotlin** (Spring Boot, Micronaut)
-- **Python** (Django, FastAPI)
-- **JavaScript & TypeScript** (Node.js, ReactJS)
+- **Python** (Django)
+- **JavaScript** (ReactJS, Node.js)
 
 ### 🔹 **Backend & Architecture**
 - **Microservices**, **Event-Driven Architecture**, **API Design**
-- **Node.js** (NestJS, Fastify, Express)
 - **Spring Boot**, **Micronaut**, **Django REST Framework**
+- **Node.js** (Fastify, Express)
 - **Messaging Systems:** Kafka, RabbitMQ
 - **Databases:** PostgreSQL, MySQL, Elasticsearch, Redis
 - **DevOps & Cloud:** AWS (Lambda, S3, EventBridge, DynamoDB, API Gateway), Docker, Kubernetes
@@ -23,13 +23,13 @@
 
 ### 🔹 **Frontend & UI**
 - **ReactJS** (Hooks, Context API, TailwindCSS, MUI)
-- **State Management:** Redux, Zustand, React Query
+- **State Management:** Context API, XState, Redux
 
 ---
 
 ## 🔥 **Highlights**
-💡 **DSA & LeetCode:** Solving algorithm and data structure problems to improve coding skills.  
 💡 **System Design:** Studying scalable architecture and designing high-performance systems.  
+💡 **DSA & LeetCode:** Solving algorithm and data structure problems to improve coding skills.  
 💡 **Open Source Projects:** Contributing to public repositories and sharing knowledge.  
 
 ---
@@ -45,7 +45,6 @@
 ## 📫 **Find me here:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gersonaguiar)  
 [![GitHub](https://img.shields.io/badge/GitHub--black?style=for-the-badge&logo=github)](https://github.com/gerson-aguiar)  
-[![Email](https://img.shields.io/badge/Email--red?style=for-the-badge&logo=gmail)](mailto:gerson.aguiar.dev@gmail.com)  
 
 ---
 
