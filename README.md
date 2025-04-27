@@ -13,6 +13,13 @@
 
 ---
 
+## My portfolio/learning projects
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
+[Java - Springboot](https://github.com/gerson-aguiar/my-portfolio-java-springboot-admin-catalogo-video)
+
+---
+
 ### Github Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gerson-aguiar&custom_title=Gerson-Aguiar%27s%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true%22%20alt=%22GitHub%20Activity%20Graph%22" />
 
