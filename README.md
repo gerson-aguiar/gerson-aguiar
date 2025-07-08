@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Gerson Aguiar!
 
 🎯 **Senior Software Engineer | Backend | Systems Architecture | A little bit FrontEnd**  
-📍 Currently working at **Inventa**  
+📍 Currently working at **Asaas**  
 🚀 Passionate about **monoliths, microservices, serverless architectures, distributed systems, cloud computing, and performance optimization**  
 
 
